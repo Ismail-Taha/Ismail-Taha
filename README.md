@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ismail-Taha</h1>
 <h3 align="center">A software Developer</h3>
-img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-taha&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-taha" /> </p>
