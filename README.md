@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **python,C, javascript**
 
-- 📫 How to reach me **taha.ismaile2002@gmail.com**
+- 📫 How to reach me **tahaismail.allali@gmail.com**
 
 - ⚡ Fun fact **I like coding lol !**
 
